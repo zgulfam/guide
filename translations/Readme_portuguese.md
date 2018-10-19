@@ -59,3 +59,5 @@ Copyright (c) 2018 freeCodeCamp.
 O conteúdo deste repositório está vinculado pelas seguintes licenças:
 - O software do computador está licenciado sob [BSD-3-Clause](./LICENSE.md).
 - O conteúdo de referência em [`/src/pages`](/src/pages) e subdiretórios é licenciado sob o [CC-BY-SA-4.0](./src/pages/LICENSE.md).
+
+minhas mudanças
